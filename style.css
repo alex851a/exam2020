@@ -1,6 +1,8 @@
-/*LOGO*/
+/*LOGO frontpage*/
 .imglogo {
-    padding: 0 200px 0 200px;
+    display: block;
+    width: 75%;
+    margin: 5vw auto;
 }
 
 /*LOGO*/
