@@ -1,20 +1,23 @@
 /*LOGO frontpage*/
 .imglogo {
     display: block;
-    width: 75%;
+    width: 55%;
     margin: 5vw auto;
 }
 
-/*LOGO*/
-
-/*footer*/
-footer {
-    display: flex;
-    align-items: center;
+/*LOGO frontpage*/
+/*TXT FRONPAGE*/
+.continuetxt {
+    background-color: red;
+    text-align: center;
+    font-size: 1.2em;
+    text-decoration: none;
 }
 
-.footeritem {
-    flex-basis: auto;
+.continuetxt h2:hover {
+    color: #83B9B3;
+    text-decoration: none;
+    transition: all .3s linear;
 }
 
-/*footer*/
+/*TXT FRONPAGE*/
