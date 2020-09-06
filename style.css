@@ -38,6 +38,12 @@
     width: 100%;
 }
 
+#aboutimg {
+    max-width: 300px;
+    margin: 0 100px;
+
+}
+
 .wrapperitem {
     flex-grow: 1;
     flex-basis: 500px;
