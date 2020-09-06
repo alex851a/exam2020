@@ -25,7 +25,7 @@
 
 /*TXT FRONPAGE SLUT*/
 
-
+/*FRONTPAGE START*/
 .wrapper {
     display: flex;
     align-items: center;
@@ -34,14 +34,13 @@
     background-color: #F3F3F3;
 }
 
-.wrapper img {
+.wrapper,
+.wrapperabout img {
     width: 100%;
 }
 
 #aboutimg {
     max-width: 300px;
-    margin: 0 100px;
-
 }
 
 .wrapperitem {
@@ -50,8 +49,10 @@
     padding: 20px;
 }
 
-.wrapperitem,
-h2 {
+
+h3,
+h2,
+h1 {
     font-family: "Roboto", sans-serif !important;
 }
 
@@ -59,6 +60,26 @@ h2 {
 p {
     font-family: "Nunito", sans-serif;
 }
+
+/*FRONTPAGE SLUT*/
+
+
+/*ABOUTPAGE START*/
+.wrapperabout {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 100px;
+    background-color: #C5B1B8;
+}
+
+.wrapperitemabout {
+    flex-grow: 1;
+    flex-basis: 500px;
+}
+
+/*ABOUTPAGE SLUT*/
+
 
 
 /*HEADER/FOOTER START*/
@@ -80,7 +101,7 @@ footer {
 }
 
 
-/*media querry*/
+/*media querry for header*/
 
 /*desktop*/
 
