@@ -98,6 +98,10 @@ li {
     padding: 40px;
 }
 
+#about .flickr {
+    text-align: center;
+}
+
 /*ABOUTPAGE SLUT*/
 #products {
     margin: 0 100px;
